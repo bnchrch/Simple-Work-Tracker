@@ -4,7 +4,9 @@ This is a simple timer I wrote to track my time spent on tasks at work and perso
 ##Usage
 ### To Start
 Simply naviagte to the repo and type the following (ignore the [] brackets):
+
 * python timer.py [path/to/yourworklog]
+
 ### Commands
 - start: to start timer
 - exit: to exit program
